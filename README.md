@@ -1,1 +1,1 @@
-See [pilot.co/logo](https://pilot.co/logo).
+See **[pilot.co/brand](https://pilot.co/brand/logo)**.
